@@ -1,29 +1,29 @@
-# _{Calculator}_
+# Calculator
 
-#### _{Calculator application}, {02/01/17}_
+#### Calculator application, 02/01/17_
 
-#### By _**{Steven Galvin and Marilyn Carlin}**_
+#### By Steven Galvin and Marilyn Carlin
 
 ## Description
 
-_{This application is a basic calculator. It can add numbers together. It is written in javascript. }_
+This application is a basic calculator. It can add numbers together. It is written in javascript.
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open scripts.js_
-* _Have fun!_
+* Clone this repository
+* Open scripts.js
+* Have fun!
 
 ## Support and contact details
 
-_{Have questions, comments, or concerns? Email us at marilyn.s.carlin@gmail.com or steven.john.galvin@gmail.com.}_
+Have questions, comments, or concerns? Email us at marilyn.s.carlin@gmail.com or steven.john.galvin@gmail.com.
 
 ## Technologies Used
 
-_{Javascript, HTML, CSS.}_
+Javascript, HTML, CSS.
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+This software is licensed under the MIT license.
 
-Copyright (c) 2017 **_{Steven Galvin and Marilyn Carlin}_**
+Copyright (c) 2017 Steven Galvin and Marilyn Carlin
